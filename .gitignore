@@ -1,3 +1,4 @@
 # All listed files and folders will be ignored by git
 
+.ipynb_checkpoints/
 pictures/*.jpg
